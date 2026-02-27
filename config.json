@@ -1,0 +1,6 @@
+{
+  "log_file": "/var/log/auth.log",
+  "threshold": 5,
+  "ban_time_seconds": 600,
+  "whitelist": ["127.0.0.1"]
+}
